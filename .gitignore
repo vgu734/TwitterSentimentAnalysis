@@ -1,3 +1,7 @@
+# Custom
+training.1600000.processed.noemoticon.csv
+sentiment140_cleaned.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

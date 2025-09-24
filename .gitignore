@@ -2,6 +2,8 @@
 training.1600000.processed.noemoticon.csv
 sentiment140_cleaned.csv
 .vector_cache/
+best_model/
+results*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
